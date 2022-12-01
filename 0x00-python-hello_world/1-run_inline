@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo $PYCODE > best-school.py
+
+python3 best-school.py
